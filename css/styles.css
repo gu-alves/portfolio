@@ -345,7 +345,7 @@ img {
     color: #FFF;
     padding: 1rem;
     border-radius: .5rem;
-    font-weight: var(--font_medium);
+    font-weight: var(--font-medium);
 }
 
 .button:hover {
@@ -878,7 +878,7 @@ img {
 }
 
 .footer_title {
-    font-size: var(--h1-font-size);
+    font-size: var(--h3-font-size);
     margin-bottom: var(--mb-0-25);
 }
 
