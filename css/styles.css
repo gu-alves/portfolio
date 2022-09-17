@@ -387,6 +387,10 @@ img {
     color: var(--first-color-alt);
 }
 
+.button-project-in-mind {
+    margin-bottom: 3rem;
+}
+
 /* ABOUT */
 .about_img {
     width: 200px;
